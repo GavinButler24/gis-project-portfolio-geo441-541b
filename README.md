@@ -13,4 +13,4 @@ Gavin Butler
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/map-coordinate-basics/understanding-coordinates.ipynd)
+- [Understanding map coordinates](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Map-Coordinate-Basics/Understanding-Mapping-Coordinates.ipynb)
