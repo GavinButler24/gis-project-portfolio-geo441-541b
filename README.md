@@ -8,7 +8,7 @@ Gavin Butler
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/basic-mapping/first-arcgis-mapping.ipynd)
+- [First map in ArcGIS Pro](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Basic-Mapping/First-Map-Arcgis-Pro.ipynb)
 - [Map the age index based on 2000 census data](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Basic-Mapping/Age-Index-Mapping.ipynb)
 
 ## Map Coordinate Basics
