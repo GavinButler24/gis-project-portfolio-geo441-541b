@@ -14,3 +14,6 @@ Gavin Butler
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Map-Coordinate-Basics/Understanding-Mapping-Coordinates.ipynb)
+
+## Spatial Analysis
+ [Spatial Analysis]
