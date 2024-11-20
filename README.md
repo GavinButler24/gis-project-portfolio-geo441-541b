@@ -20,4 +20,4 @@ Gavin Butler
 
 
 ## Web Based Mapping
-[1854 Cholera Outbreak](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=05e9dbd358644868b02e2030a825a34f)
+[1854 Cholera Outbreak](https://arcg.is/WCbH41)
