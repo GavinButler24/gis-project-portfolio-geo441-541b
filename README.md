@@ -17,3 +17,7 @@ Gavin Butler
 
 ## Spatial Analysis
  [Spatial Analysis](https://colab.research.google.com/github/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Spatial-Data/Spatial-Analysis-for-Vector-Data.ipynb)
+
+
+## Web Based Mapping
+[1854 Cholera Outbreak](https://miamioh.maps.arcgis.com/apps/instant/sidebar/index.html?appid=05e9dbd358644868b02e2030a825a34f)
