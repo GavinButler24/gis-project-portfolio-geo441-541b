@@ -21,3 +21,6 @@ Gavin Butler
 
 ## Web Based Mapping
 [1854 Cholera Outbreak](https://arcg.is/WCbH41)
+
+## Census Data
+[Census Data for Spatial Analysis](
