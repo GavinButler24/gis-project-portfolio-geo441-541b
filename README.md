@@ -23,4 +23,5 @@ Gavin Butler
 [1854 Cholera Outbreak](https://arcg.is/WCbH41)
 
 ## Census Data
-[Census Data for Spatial Analysis](https://colab.research.google.com/github/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Copy_of_week_12_assignment_template.ipynb)
+
+- [Working with Census Data](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Spatial-Data/Census-Data.ipynb)
