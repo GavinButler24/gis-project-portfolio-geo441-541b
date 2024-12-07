@@ -24,4 +24,4 @@ Gavin Butler
 
 ## Census Data
 
-- [Working with Census Data](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Spatial-Data/Census-Data.ipynb)
+[Working with Census Data](https://github.com/GavinButler24/gis-project-portfolio-geo441-541b/blob/main/Spatial-Data/Census-Data.ipynb)
